@@ -1,2 +1,2 @@
 # Library-Management
-Application for the management of library, such book keeping, recording and catalogue. 
+Application for the management of library, such  as book keeping, recording and catalogue. 
